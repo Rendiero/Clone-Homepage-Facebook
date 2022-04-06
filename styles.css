@@ -1,0 +1,106 @@
+* {
+    font-family: Ubuntu;
+    padding: 0;
+    margin: 0;
+}
+
+.content-header {
+    background-color: #4267B2;
+    color: white;
+}
+
+.wrapper {
+    width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+#logofb {
+    width: 250px;
+    height: 90px;
+    float: left;
+    margin-top: 15px;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.content-header form {
+    float: right;
+    margin-top: 15px;
+}
+
+.content-header label {
+    display: block;
+    padding-bottom: 2px;
+}
+
+.content-header input {
+    display: block;
+}
+
+.group-form1 {
+    float: left;
+    padding-right: 10px;
+}
+
+.group-form2 {
+    float: left;
+    padding-right: 15px;
+}
+
+#button-login {
+    background-color: #6787c6;
+    padding: 5px;
+    margin-top: 16px;
+    border: 1px solid black;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+#keep {
+    color: #7ea3ed;
+    margin-top: 3px;
+    font-weight: bold;
+}
+
+#forgot {
+    color: #7ea3ed;
+    float: left;
+    margin-top: 3px;
+    font-weight: bold;
+}
+
+#keepme {
+    display: inline;
+}
+
+#check {
+    float: left;
+    margin-top: 7px;
+    margin-right: 4px;
+}
+
+.content-header input[type="email"], input[type="password"] {
+    height: 23px;
+}
+
+
+
+
+
+
+
+
+
